@@ -54,7 +54,7 @@ const Footer = () => {
         { text: '', href: '' },
         { text: 'About', href: '/about' },
         { text: 'Careers', href: '/career' },
-        { text: 'Our Investors', href: '/ourInvestors' },
+        { text: 'Our Investors', href: '/our-investors' },
         { text: 'Privacy Policy', href: '/privacy-policy' }
       ]
     },
