@@ -53,8 +53,8 @@ const Footer = () => {
       items: [
         { text: '', href: '' },
         { text: 'About', href: '/about' },
-        { text: 'Careers', href: '/careers' },
-        // { text: 'Partners', href: '/partnerConnect' },
+        { text: 'Careers', href: '/career' },
+        { text: 'Our Investors', href: '/ourInvestors' },
         { text: 'Privacy Policy', href: '/privacy-policy' }
       ]
     },

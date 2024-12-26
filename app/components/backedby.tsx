@@ -6,7 +6,7 @@ import LightSpeed from '../../public/brands/lightspeed.jpeg'
 
 export default function BackedByLight() {
   return (
-    <div className="flex flex-col  items-center justify-center text-white px-4 sm:px-6 lg:px-8 ">
+    <div className="flex flex-col items-center justify-center text-white px-4 sm:px-6 lg:px-8 ">
       <div className="w-full max-w-4xl mx-auto ">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
