@@ -88,7 +88,7 @@ export const investors: Investor[] = [
     name: "Dilipkumar Khandelwal",
     company: "Deutsche Bank India",
     role: "Co-founder & CEO",
-    img: "/investors/Dilipkumar.jpg",
+    img: "/investors/DilipKumar.jpg",
   },
   {
     name: "Sandeep Jethwani",

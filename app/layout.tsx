@@ -10,15 +10,15 @@ export async function generateMetadata() {
 
   return {
     metadataBase: new URL(baseUrl),
-    title: 'HOUSE OF X',
-    description: 'HOUSE OF X provides end-to-end tools to launch, build and scale creator-led D2C brands. Our aim is to democratise brand creation.',
+    title: 'House of X',
+    description: 'House of X provides end-to-end tools to launch, build and scale creator-led D2C brands. Our aim is to democratise brand creation.',
     keywords: 'D2C brands, brand creation, creator tools, ecommerce solutions',
-    author: 'HOUSE OF X By Shruti',
+    author: 'House of X By Shruti',
     openGraph: {
-      title: 'HOUSE OF X',
+      title: 'House of X',
       description: 'Democratizing brand creation with powerful tools for creators.',
       url: baseUrl,
-      siteName: 'HOUSE OF X',
+      siteName: 'House of X',
       images: [
         {
           url: `${baseUrl}/hox-logo-default - 180x180.png`,
@@ -31,7 +31,7 @@ export async function generateMetadata() {
     },
     twitter: {
       card: 'summary_large_image',
-      title: 'HOUSE OF X',
+      title: 'House of X',
       description: 'Your website description goes here',
       images: [`${baseUrl}/twitter-image.jpg`],
     },
