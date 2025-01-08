@@ -37,12 +37,12 @@ function OurTeam() {
         </div>
         <div className="grid md:grid-cols-2 gap-12 max-w-4xl mx-auto">
           <TeamMember
-            image="/founderImg/Raj-Shamani.jpg"
+            image="/founderImg/Raj-Shamani.webp"
             name="Raj Shamani"
             title="Founder, House of X"
           />
           <TeamMember
-            image="/founderImg/neeraj.jpg"
+            image="/founderImg/neeraj.webp"
             name="Neeraj Kumawat"
             title="Co-founder, House of X"
           />

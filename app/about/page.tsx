@@ -16,12 +16,12 @@ function About() {
           </p>
           <div className="grid grid-cols-2 gap-6">
             {[
-              "/founderImg/kingRaj.jpg",
+              "/founderImg/kingRaj.webp",
               "/products/product1.webp",
               "/products/product2.avif",
               "/products/product3.webp"
             ].map((src, index) => (
-              <motion.div
+              <motion.div       
                 key={index}
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.2 }}
@@ -48,10 +48,10 @@ function About() {
           </p>
           <div className="grid grid-cols-2 gap-6">
             {[
-              "/sample/pic1.jpg",
-              "/sample/pic2.jpg",
-              "/sample/pic3.jpg",
-              "/sample/pic7.jpg"
+              "/sample/pic1.webp",
+              "/sample/pic2.webp",
+              "/sample/pic3.webp",
+              "/sample/pic7.webp"
             ].map((src, index) => (
               <motion.div
                 key={index}
@@ -104,8 +104,8 @@ function About() {
           
           <div className="grid grid-cols-2 gap-6">
             {[
-              "/sample/pic5.jpg",
-              "/sample/pic6.jpg"
+              "/sample/pic5.webp",
+              "/sample/pic6.webp"
             ].map((src, index) => (
               <motion.div
                 key={index}

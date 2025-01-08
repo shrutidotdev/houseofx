@@ -3,17 +3,17 @@ import Image from 'next/image';
 const categories = [
   {
     title: 'Manufacturing',
-    image: '/Manufacturing.jpeg',
+    image: '/Manufacturing.webp',
     count: '2,500+'
   },
   {
     title: 'Technology',
-    image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c',
+    image: '/Technology.webp',
     count: '3,800+'
   },
   {
     title: 'Logistics',
-    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d',
+    image: '/Manufacturing.webp',
     count: '1,900+'
   }
 ];

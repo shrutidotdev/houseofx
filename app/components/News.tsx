@@ -15,7 +15,7 @@ interface NewsItem {
 
 const NEWS_DATA: NewsItem[] = [
   {
-    src: "/founderImg/raj food lab.jpg",
+    src: "/founderImg/raj food lab.webp",
     alt: "Raj Shamani",
     title: "Raj Shamani plans to launch more creator-led brands, in talks with 20 influencers",
     source: "Hotelierindia",
@@ -24,7 +24,7 @@ const NEWS_DATA: NewsItem[] = [
     excerpt: "Entrepreneur Raj Shamani and celebrity chef Sanjyot Keer collaborate to unveil YFL.Continuing with its commitment of enabling creators to start brands in seven days, House of X"
   },
   {
-    src: "/founderImg/Raj-Shamani.jpg",
+    src: "/founderImg/Raj-Shamani.webp",
     alt: "Raj Shamani",
     title: "Raj Shamani plans to launch more creator-led brands, in talks with 20 influencers",
     source: "MoneyControl",
@@ -33,7 +33,7 @@ const NEWS_DATA: NewsItem[] = [
     excerpt: "Digital creator and entrepreneur Raj Shamani is planning to launch more creator-led brands and is in talks with about 20 influencers for the same."
   },
   {
-    src: "/founderImg/kingRaj.jpg",
+    src: "/founderImg/kingRaj.webp",
     alt: "Raj Shamani",
     title: "In three months since launch, Popstar King's brand Blanko hits Rs1 crore per month run rate in revenue with House of X",
     source: "Forbes India",

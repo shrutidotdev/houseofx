@@ -77,13 +77,13 @@ export default function Home() {
                     <ModeCard
                       mode="Blanko"
                       edition="Explore Blanko by King, top men's perfume in India"
-                      image="/brands/blanko.jpeg"
+                      image="/brands/blanko.webp"
                       url="https://ifeelblanko.com/"
                     />
                     <ModeCard
                       mode="YFLhome"
                       edition="Elevate your kitchen with Sanjyot Keer's favorites"
-                      image="/brands/blender.jpg"
+                      image="/brands/blender.webp"
                       url="https://yflhome.com/products/blendlabpro2"
                     />
                   </div>

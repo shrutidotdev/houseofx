@@ -64,7 +64,7 @@ export default function VideoPage() {
           loop
           muted={isMuted}
           preload="auto"
-          poster="/thumbnail.jpg"
+          
         >
           <source
             src="/video/houseofx.mp4"

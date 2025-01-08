@@ -1,8 +1,6 @@
 "use client";
 
 import { Bell, Home, MessageCircle, Settings, User } from "lucide-react";
-// import { Button } from "../../components/ui/button";
-// import { Card } from "../../components/ui/card";
 import { memo } from "react";
 import RevenueEstimator from "./estimatedRevenue";
 import logo from '../../public/hox-logo-default - 32 x 32.webp'
@@ -12,7 +10,6 @@ import Link from 'next/link'
 
 const Header = memo(() => (
   <header className="flex items-center justify-between border-b px-4 py-1 backdrop-blur-sm">
-    {/* <h1 className="text-lg font-semibold text-white">Revenue</h1> */}
     <Image src={logo}  alt="house of x logo" />
     <Bell className="h-5 w-5 text-green-300" />
   </header>

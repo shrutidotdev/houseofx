@@ -21,7 +21,7 @@ export async function generateMetadata() {
       siteName: 'House of X',
       images: [
         {
-          url: `${baseUrl}/hox-logo-default - 180x180.png`,
+          url: `${baseUrl}/hox-logo-default - 180x180.webp`,
           width: 1200,
           height: 630,
         },
@@ -33,20 +33,20 @@ export async function generateMetadata() {
       card: 'summary_large_image',
       title: 'House of X',
       description: 'Your website description goes here',
-      images: [`${baseUrl}/twitter-image.jpg`],
+      images: [`${baseUrl}/twitter-image.webp`],
     },
     icons: {
       icon: [
         { url: `${baseUrl}/favicon.ico`, sizes: 'any' },
-        { url: `${baseUrl}/hox-logo-default - 16x16.png`, sizes: '16x16', type: 'image/png' },
-        { url: `${baseUrl}/hox-logo-default - 32x32.png`, sizes: '32x32', type: 'image/png' },
-        { url: `${baseUrl}/hox-logo-default - 48x48.png`, sizes: '48x48', type: 'image/png' },
+        { url: `${baseUrl}/hox-logo-default - 16x16.webp`, sizes: '16x16', type: 'image/webp' },
+        { url: `${baseUrl}/hox-logo-default - 32x32.webp`, sizes: '32x32', type: 'image/webp' },
+        { url: `${baseUrl}/hox-logo-default - 48x48.webp`, sizes: '48x48', type: 'image/webp' },
       ],
       apple: [
-        { url: `${baseUrl}/hox-logo-default - 180x180.png`, sizes: '180x180', type: 'image/png' },
+        { url: `${baseUrl}/hox-logo-default - 180x180.webp`, sizes: '180x180', type: 'image/webp' },
       ],
       other: [
-        { url: `${baseUrl}/hox-logo-default.webp`, sizes: '192x192', type: 'image/png' },
+        { url: `${baseUrl}/hox-logo-default.webp`, sizes: '192x192', type: 'image/webp' },
       ],
     },
     manifest: `${baseUrl}/site.webmanifest`,

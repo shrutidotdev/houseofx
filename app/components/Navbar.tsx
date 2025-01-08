@@ -209,7 +209,7 @@ const Navbar: React.FC = () => {
           >
             <Link href={ROUTES.home} className="flex-shrink-0 flex items-center">
               <Image 
-                src="/hox-logo-default - 48x48.png" 
+                src="/hox-logo-default - 48x48.webp" 
                 alt="House of X logo" 
                 width={48} 
                 height={48}
