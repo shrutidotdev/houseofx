@@ -1,7 +1,7 @@
 'use client'
 import Image from 'next/image';
 import Link from 'next/link';
-import logo from "../../public/hox-logo-default - 180x180.png"
+import logo from "../../public/hox-logo-default - 180x180.webp"
 import localFont from 'next/font/local';
 import { motion } from "framer-motion";
 

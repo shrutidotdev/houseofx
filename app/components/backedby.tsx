@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import Image from 'next/image';
-import LightSpeed from '../../public/brands/lightspeed.jpeg'
+import LightSpeed from '../../public/brands/lightspeed.webp'
 
 export default function BackedByLight() {
   return (

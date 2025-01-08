@@ -5,7 +5,7 @@ import { Bell, Home, MessageCircle, Settings, User } from "lucide-react";
 // import { Card } from "../../components/ui/card";
 import { memo } from "react";
 import RevenueEstimator from "./estimatedRevenue";
-import logo from '../../public/hox-logo-default - 32 x 32.png'
+import logo from '../../public/hox-logo-default - 32 x 32.webp'
 import Image from 'next/image'
 import Link from 'next/link'
 
