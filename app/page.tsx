@@ -42,7 +42,7 @@ export default function Home() {
         <RetroGridDemo />
 
         <main className="relative w-full overflow-hidden">
-          <div className="container mx-auto px-4 sm:px-2 mt-[6.7rem] lg:px-8 space-y-32 py-12 md:py-24 max-w-[1440px]">
+          <div className="container mx-auto px-4 sm:px-2 mt-48 lg:px-8 space-y-32 py-12 md:py-24 max-w-[1440px]">
             <section className="w-full">
               <VideoSlider />
             </section>

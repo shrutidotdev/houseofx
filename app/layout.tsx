@@ -13,7 +13,7 @@ export async function generateMetadata() {
     title: 'House of X',
     description: 'House of X provides end-to-end tools to launch, build and scale creator-led D2C brands. Our aim is to democratise brand creation.',
     keywords: 'D2C brands, brand creation, creator tools, ecommerce solutions',
-    author: 'House of X By Shruti',
+    author: 'House of X',
     openGraph: {
       title: 'House of X',
       description: 'Democratizing brand creation with powerful tools for creators.',
@@ -41,7 +41,7 @@ export async function generateMetadata() {
         { url: `${baseUrl}/hox-logo-default - 16x16.webp`, sizes: '16x16', type: 'image/webp' },
         { url: `${baseUrl}/hox-logo-default - 32x32.webp`, sizes: '32x32', type: 'image/webp' },
         { url: `${baseUrl}/hox-logo-default - 48x48.webp`, sizes: '48x48', type: 'image/webp' },
-      ],
+      ], 
       apple: [
         { url: `${baseUrl}/hox-logo-default - 180x180.webp`, sizes: '180x180', type: 'image/webp' },
       ],
