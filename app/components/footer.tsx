@@ -138,7 +138,7 @@ const Footer = () => {
             <p className="text-gray-400">&copy; 2024 Houseofx.in, Inc. All rights reserved.</p>
             <p className="text-white">
               Made with ❤️ by{' '}
-              <Link href="https://twitter.com/shrutisinghz" target="_blank" className="hover:text-gray-400 transition-colors duration-200">
+              <Link href="https://x.com/shruti_dev" target="_blank" className="hover:text-gray-400 transition-colors duration-200">
                 Shruti
               </Link>
             </p>
